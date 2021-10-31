@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ebarton2.byu.cs240.familymap.userInterface.MainActivity"
+    >
+
+    <item android:id="@+id/search_badge"
+        android:title="searchBadge"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource"/>
+
+    <item android:id="@+id/settings_gear"
+        android:title="Settings"
+        android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource"/>
+
+</menu>

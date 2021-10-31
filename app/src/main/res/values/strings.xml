@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="settings_name">Settings</string>
+    <string name="persons_name">Person Details</string>
+    <string name="events_name">Event Details</string>
+    <string name="search_name">Search</string>
+    <string name="family">Family</string>
+    <string name="life_events">Life Events</string>
+
+    <string name="registerSuccess">Register Succeeded</string>
+    <string name="registerFail">Register Failed</string>
+    <string name="loginSuccess">Login Succeeded</string>
+    <string name="loginFail">Login Failed</string>
+    <string name="dataAccessSucceed">Data Access Succeeded</string>
+    <string name="dataAccessFail">Data Access Failed</string>
+
+    <string name="markerName">Click on marker</string>
+    <string name="eventDetails">Event details</string>
+    <string name="genderIcon">genderIcon</string>
+    <string name="markerIcon">markerIcon</string>
+
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="title_activity_event">Map</string>
+</resources>
